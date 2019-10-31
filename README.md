@@ -1,3 +1,6 @@
+In this excercise I was able to add labels to the game which is surprisingly fairly easy to do. In the next assignment I hope to play around with labels to add a bit of juice to my game. 
+
+
 # E09a-Scripting
 
 We will continue adding on to the first Godot project (E08a-Paddle-Ball). In this exercise, we will be learning more about scripting and signals in gdScript.
